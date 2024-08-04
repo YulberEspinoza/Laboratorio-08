@@ -1,0 +1,47 @@
+body {
+  margin: 20px;
+}
+
+.cabecera {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin: 20px;
+}
+
+.img-principal {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.main-medio {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  gap: 30px;
+}
+
+.main-inferior {
+  display: flex;
+  justify-content: center;
+  margin-left: 190px;
+  gap: 30px;
+}
+
+.article > article {
+  display: flex;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 200px;
+}
+
+button {
+  display: flex;
+  justify-content: end;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
